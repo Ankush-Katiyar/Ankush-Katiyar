@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 --!>
 
-- 🔭 I’m currently working in StatusNeo.
+- 🔭 I’m currently working in StatusNeo. <br>
 - 💬 Ask me about anything related to Web Development majorily HTML, CSS, JavaScript, Java, DevOps, and Cloud computing.
 
