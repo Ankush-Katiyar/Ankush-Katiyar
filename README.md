@@ -1,4 +1,12 @@
-### Hello There, Welcome to my profile. 👋
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
+
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+</div>
+
+### Hello There, Great to see you. 👋
 
 
 <!--
@@ -31,8 +39,21 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+<div align="left">
+<p>Have a good day!</p>
+<div>
+<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
+</div>
+</div>
+
+
 ## Visitor count
 <img src="https://profile-counter.glitch.me/Ankush-Katiyar/count.svg" />
+<br>
+
+
+
+
 
 
 
