@@ -8,7 +8,7 @@
 <br>
 
 # 💫 About Me:
-Hi  My name is Ankush Katiyar,<br>🔭 I’m currently working in StatusNeo.<br>💬 Ask me about : Cloud Computing, Web Development, DevOps, Java and current affairs.<br>
+Hi! I am Ankush,<br>🔭 I’m currently working in StatusNeo.<br>💬 Ask me about : Cloud Computing, Web Development, DevOps, Java and current affairs.<br>
 
 
 
