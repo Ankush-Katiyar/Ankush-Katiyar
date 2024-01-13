@@ -30,9 +30,14 @@ Hi  My name is Ankush Katiyar,<br>🔭 I’m currently working in StatusNeo.<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+<div align="center">
 🏆 Visitor count <br>
 <img src="https://profile-counter.glitch.me/Ankush-Katiyar/count.svg" />
 <br>
+</div>
+
+  # Thankyou, Visit Again, Have a great day!!
+
 
 
 
