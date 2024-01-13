@@ -7,9 +7,13 @@
 </h1>
 <br>
 
-# 💫 About Me:
-Hi! I am Ankush,<br>🔭 I’m currently working in StatusNeo.<br>💬 Ask me about : Cloud Computing, Web Development, DevOps, Java and current affairs.<br>
 
+# 💫 About Me:
+Hi! I am Ankush,<br>🔭 I’m currently working in StatusNeo.<br>💬 Ask me about : Cloud Computing, Web Development, DevOps, Java and current affairs.<br> 
+
+<div align="center">
+<a href="https://ibb.co/rw7mz2V"><img src="https://i.ibb.co/rw7mz2V/octocat.png" alt="octocat" border="0"></a>
+</div>
 
 
 
