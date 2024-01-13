@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/_riderbysoul_/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.sv"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-**Languages and Tools:**
+Languages and Tools:
 <br>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -50,9 +50,19 @@ Here are some ideas to get you started:
 
 
 
-## Visitor count
+Visitor count
 <img src="https://profile-counter.glitch.me/Ankush-Katiyar/count.svg" />
 <br>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ankush-Katiyar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ankush-Katiyar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-Katiyar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ankush-Katiyar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 
