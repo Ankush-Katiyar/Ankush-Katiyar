@@ -1,5 +1,16 @@
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+</div>
+
+<h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Ankush+Katiyar%2C+;Welcome+to+my+README" alt="Typing SVG" /></a>
+</h1>
+<br>
+
 # 💫 About Me:
 Hi  My name is Ankush Katiyar,<br>🔭 I’m currently working in StatusNeo.<br>💬 Ask me about : Cloud Computing, Web Development, DevOps, Java and current affairs.<br>
+
+
 
 
 ## 🌐 Socials:
@@ -19,9 +30,10 @@ Hi  My name is Ankush Katiyar,<br>🔭 I’m currently working in StatusNeo.<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ankush-Katiyar&icon=1&color=5)](https://visitcount.itsvg.in)
+🏆 Visitor count <br>
+<img src="https://profile-counter.glitch.me/Ankush-Katiyar/count.svg" />
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
