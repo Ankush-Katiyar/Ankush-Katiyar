@@ -10,6 +10,7 @@
 
 # 💫 About Me:
 Hi! I am Ankush,<br>🔭 I’m currently working in StatusNeo.<br>💬 Ask me about : Cloud Computing, Web Development, DevOps, Java and current affairs.<br> 
+❤️ My Hobbies : Travelling, Bike Riding, Badminton and Painting. <br>
 
 <div align="center">
 <a href="https://ibb.co/rw7mz2V"><img src="https://i.ibb.co/rw7mz2V/octocat.png" alt="octocat" border="0"></a>
@@ -17,7 +18,7 @@ Hi! I am Ankush,<br>🔭 I’m currently working in StatusNeo.<br>💬 Ask me ab
 
 
 
-## 🌐 Socials:
+## 🌐 Social Media Handles:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_riderbysoul_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankushkatiyar01/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ankush__katiyar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Rider_By_Soul) 
 
 # 💻 Tech Stack:
