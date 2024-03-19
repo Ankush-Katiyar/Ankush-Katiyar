@@ -27,6 +27,7 @@ Hi! I am Ankush,<br>🔭 I’m currently working in StatusNeo.<br>💬 Ask me ab
 ![](https://github-readme-stats.vercel.app/api?username=Ankush-Katiyar&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ankush-Katiyar&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-Katiyar&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ankush-Katiyar)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ankush-Katiyar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
