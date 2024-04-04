@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-Hi! I am Ankush,<br>🔭 I’m currently working in StatusNeo.<br>💬 Ask me about : Cloud Computing, Web Development, DevOps, Java and Current Affairs.<br> 
+Hi! I am Ankush,<br>🔭 I’m currently working in StatusNeo.<br>💬 Ask me about : Cloud Computing, Web Development, DevOps, Java, Mobile Development and Current Affairs.<br> 
 ❤️ My Hobbies : Travelling, Bike Riding, Badminton and Painting. <br>
 
 <div align="center">
